@@ -1,0 +1,480 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "97f9b47b-ffb9-41e1-ac0f-b39fa7e1ac4d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19012768596250__97f9b47b-ffb9-41e1-ac0f-b39fa7e1ac4d-168425412247c3ff5f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Wheat_for_Soy_Free_Category.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Premium Organic and Soy Free Feed and Grain in the Hudson Valley",
+            "title": "Stone House Grain",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19012768596250__97f9b47b-ffb9-41e1-ac0f-b39fa7e1ac4d-168425412247c3ff5f-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": true,
+        "image_size": "lg",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(330deg, rgba(147, 107, 54, 1), rgba(67, 46, 26, 1) 100%)"
+      }
+    },
+    "2b2abc09-8223-4599-88dd-b5d3454f3259": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19012768596250__2b2abc09-8223-4599-88dd-b5d3454f3259-168425467694b41f30-1": {
+          "type": "heading",
+          "settings": {
+            "text": "At Stone House Grain, we are passionate about producing high-quality, certified organic and soy free animal feeds. With a deep-rooted commitment to sustainable agriculture, we strive to provide farmers with premium feeds that promote the health and vitality of their livestock.",
+            "heading_tag": "h3",
+            "text_color": "#1a1a1a",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19012768596250__2b2abc09-8223-4599-88dd-b5d3454f3259-168425467694b41f30-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "54952fe0-24e0-4ea7-9852-ca46eb73e533": {
+      "type": "video",
+      "blocks": {
+        "template--19012768596250__54952fe0-24e0-4ea7-9852-ca46eb73e533-1684254889b9440e08-0": {
+          "type": "play",
+          "settings": {}
+        },
+        "template--19012768596250__54952fe0-24e0-4ea7-9852-ca46eb73e533-1684254889b9440e08-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19012768596250__54952fe0-24e0-4ea7-9852-ca46eb73e533-1684254889b9440e08-0",
+        "template--19012768596250__54952fe0-24e0-4ea7-9852-ca46eb73e533-1684254889b9440e08-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://vimeo.com/921141285",
+        "poster": "shopify://shop_images/SHF_-_STRUCTURE_3_Color_Corrected_Two.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "57e8fa78-2edb-4c8c-8c79-5bcb47784e82": {
+      "type": "impact-text",
+      "blocks": {
+        "template--19012768596250__57e8fa78-2edb-4c8c-8c79-5bcb47784e82-16844363789dc8d366-0": {
+          "type": "item",
+          "settings": {
+            "title": "Premium Feed",
+            "subheading": "We Offer Only the Best Quality and Organic Animal Feeds & Grains",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "template--19012768596250__57e8fa78-2edb-4c8c-8c79-5bcb47784e82-16844363789dc8d366-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.9,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(173deg, rgba(109, 129, 92, 1) 40%, rgba(50, 59, 42, 1) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "22216382-e494-4937-a808-498dbeb69319": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "template--19012768596250__22216382-e494-4937-a808-498dbeb69319-16842550055f70df1e-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_18_-_MACHINERY_14_SQUARE.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Quality and Sustainability",
+            "content": "<p>We firmly believe that healthy animals start with nutritious, wholesome feeds. That's why we meticulously select and grow our grains using sustainable farming practices that prioritize soil health, biodiversity, and long-term environmental sustainability. Our feeds are carefully formulated to provide the ideal balance of essential nutrients, supporting optimal growth, immune function, and overall animal well-being.</p><p><a href=\"/collections/all\" title=\"All products\"><strong>SHOP ALL NOW‎‎ ‎</strong></a><strong>  ► </strong></p>"
+          }
+        },
+        "template--19012768596250__22216382-e494-4937-a808-498dbeb69319-16842550055f70df1e-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_LANDSCAPE_5.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Certified Organic and Soy-Free",
+            "content": "<p>Stone House Grain is proud to be a certified organic animal feed producer. Our feeds bear the stamp of approval from reputable organizations, including the Northeast Organic Farming Association (NOFA), USDA and the Real Organic Project. We also recognize the importance of providing soy-free alternatives to meet the diverse needs of farmers and their livestock, ensuring that our feeds cater to various dietary preferences and restrictions.</p><p><a href=\"/collections/certified-organic-products\" title=\"Certified Organic Products\"><strong>SHOP ORGANIC FEED</strong></a><strong> ‎  ► </strong></p><p><a href=\"/collections/soy-free-products\" title=\"Soy Free Products\"><strong>SHOP SOY-FREE‎‎ FEED</strong></a><strong> ‎  ► </strong></p>"
+          }
+        },
+        "afaf0dc2-a524-4554-9716-508ad8614baf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_CROPS_9.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Supporting Local Farms and Communities",
+            "content": "<p>As a local business, we are deeply committed to supporting the agricultural community in the Hudson Valley. We work closely with farmers, understanding their unique challenges and goals, to provide tailored solutions that contribute to their success. By growing our own grains and sourcing  locally whenever possible, we foster strong relationships with fellow farmers and strengthen the regional food system.</p><p><a href=\"/blogs/news\" title=\"News\"><strong>READ MORE</strong></a><strong>‎‎ ‎  ► </strong></p>"
+          }
+        },
+        "9834c46f-544b-4120-8eaa-66a03d9309aa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_21_-_PEOPLE_2_SQUARE.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Partners in Your Farm's Success",
+            "content": "<p>At Stone House Grain, we see ourselves as more than just a supplier of animal feeds. We consider ourselves partners in your farm's success. Our team of knowledgeable professionals is here to offer guidance, support, and personalized advice to help you navigate the complexities of animal nutrition and sustainable farming practices.</p><p><a href=\"/pages/contact\" title=\"Contact\"><strong>CONTACT US</strong></a><strong>‎‎ ‎  ► </strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19012768596250__22216382-e494-4937-a808-498dbeb69319-16842550055f70df1e-0",
+        "template--19012768596250__22216382-e494-4937-a808-498dbeb69319-16842550055f70df1e-1",
+        "afaf0dc2-a524-4554-9716-508ad8614baf",
+        "9834c46f-544b-4120-8eaa-66a03d9309aa"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "004633ea-3ade-4404-9cc0-ea93b4158ea1": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19012768596250__004633ea-3ade-4404-9cc0-ea93b4158ea1-16844366613ac681cf-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "certified-organic-products",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19012768596250__004633ea-3ade-4404-9cc0-ea93b4158ea1-16844366613ac681cf-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "poultry-feed",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19012768596250__004633ea-3ade-4404-9cc0-ea93b4158ea1-16844366613ac681cf-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "soy-free-products",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--19012768596250__004633ea-3ade-4404-9cc0-ea93b4158ea1-16844366613ac681cf-0",
+        "template--19012768596250__004633ea-3ade-4404-9cc0-ea93b4158ea1-16844366613ac681cf-2",
+        "template--19012768596250__004633ea-3ade-4404-9cc0-ea93b4158ea1-16844366613ac681cf-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "8abbf345-5457-485a-b3ca-65774e73ad30": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--19012768596250__8abbf345-5457-485a-b3ca-65774e73ad30-1684435999a1c03826-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "Farmer First Services"
+          }
+        },
+        "template--19012768596250__8abbf345-5457-485a-b3ca-65774e73ad30-1684435999a1c03826-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Custom Feed Blends",
+            "heading_tag": "h1"
+          }
+        },
+        "template--19012768596250__8abbf345-5457-485a-b3ca-65774e73ad30-1684435999a1c03826-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At Stone House Grain, we understand that every livestock operation has unique feeding requirements. That's why we offer custom feed blends, a specialized service where we collaborate closely with farmers to identify their specific livestock needs and craft tailored feed formulations. Our team of experienced nutritionists and consultants combines their in-depth knowledge of animal physiology and nutritional science to design custom blends that optimize performance, enhance growth, and improve overall animal well-being. Partner with us and experience the power of customized nutrition for your livestock's success.</p>"
+          }
+        },
+        "3872a6c2-7927-4eb1-8dd2-ec91f4def301": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Let's Talk Custom Blends",
+            "url": "shopify://pages/contact",
+            "background": "#ffffff",
+            "text_color": "#1a1a1a"
+          }
+        }
+      },
+      "block_order": [
+        "template--19012768596250__8abbf345-5457-485a-b3ca-65774e73ad30-1684435999a1c03826-0",
+        "template--19012768596250__8abbf345-5457-485a-b3ca-65774e73ad30-1684435999a1c03826-1",
+        "template--19012768596250__8abbf345-5457-485a-b3ca-65774e73ad30-1684435999a1c03826-2",
+        "3872a6c2-7927-4eb1-8dd2-ec91f4def301"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Custom_Blends_at_Stone_House_Grain.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 35
+      }
+    },
+    "f400098e-d4dc-4dd1-bf67-589be32c75c9": {
+      "type": "timeline",
+      "blocks": {
+        "template--19012768596250__f400098e-d4dc-4dd1-bf67-589be32c75c9-1684436284895c0bc7-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Farmer_on_land_square.jpg",
+            "navigation_label": "2013",
+            "subheading": "Planning for Organic Transition",
+            "title": "Organic Transition Planning",
+            "content": "<p>In 2013, Stone House Farm focused on planning for the organic transition. They conducted listening sessions with farmers and stakeholders to gather feedback on integrating an organic farm into the regional farming and food community. The goal was to ensure the farm could serve the community effectively. </p><p>The outcome of these sessions determined that the farm would continue producing grain while developing a local and regional supply chain for local farms and food businesses.</p>"
+          }
+        },
+        "template--19012768596250__f400098e-d4dc-4dd1-bf67-589be32c75c9-1684436284895c0bc7-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Hand_in_wheat_at_sunset_square.jpg",
+            "navigation_label": "2014",
+            "subheading": "Establishing Natural Grain Harvests",
+            "title": "First Natural Grain Harvests",
+            "content": "<p>In 2014, Stone House Farm successfully completed its first natural grain harvests and implemented the organic rotation. The farm acquired new equipment specifically for organic farming. This year was crucial for building a customer base and communicating the changes at Stone House Farm to farmers and food businesses in the region. </p><p>Over fifty farm visits were conducted, and a network of farming colleagues and food businesses were brought in as prospective customers. The marketing efforts in 2014 yielded fruitful results, with approximately half of the current customers secured during this year.</p>"
+          }
+        },
+        "template--19012768596250__f400098e-d4dc-4dd1-bf67-589be32c75c9-1684436284895c0bc7-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Grain_field_at_Stone_House_Farm_Square_Exterior.jpg",
+            "navigation_label": "2015",
+            "subheading": "Starting the Feed Business",
+            "title": "Launching the Feed Business",
+            "content": "<p>In early 2015, Stone House Farm started its feed business. The customer base established in 2014 played a significant role in bringing initial business for feeds, cover crop seeds, milling wheat, and malting barley. </p><p>Throughout the year, feed recipes were refined, and the business model for local, naturally grown, non-GMO feeds was established. The farm also established initial bulk truck routes to facilitate distribution.</p>"
+          }
+        },
+        "a4b537fe-b335-4e77-a6ed-3a5d5bdb85a2": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2016",
+            "subheading": "Expanding Feed Business",
+            "title": "Rapid Feed Business Expansion",
+            "content": "<p>In 2016, Stone House Farm witnessed a rapid expansion of the feed business. During the fall of that year, they introduced the first certified organic feed line with the harvest of certified organic crops. To support the non-GMO feed line, the farm modified the Harvestores at the Home Farm into grain bins to receive additional grains from the Farm Hub. </p><p>New feed infrastructure was introduced to the mill, and bulk trucking operations expanded. Additionally, Emily Mangieri joined as the office manager, and Herb Phillips took charge of the mill. The Stone House Grain website went live in 2016, serving as a resource for onboarding new customers and selling feed, grains, hay, and straw.</p>"
+          }
+        },
+        "646f8690-9ab4-46d9-b451-4f3cf340913e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Newly_Planted_Trees_with_a_view_of_the_Catskill_Mountains_at_Stone_House_Grain_Farm_Square.jpg",
+            "navigation_label": "2017",
+            "subheading": "Growing Feed Business",
+            "title": "Significant Feed Business Growth",
+            "content": "<p>Use this text to share information about your bIn 2017, Stone House Farm experienced significant growth in the feed business. The organic feed line expanded rapidly, and non-GMO feed sales continued to grow. The farm acquired a large organic customer, Simply Grazin', which contributed to the increase in organic sales. </p><p>Additionally, sales of malting barley, milling wheat, and cover crop seeds also saw an upward trend. However, the grass-fed beef unit faced challenges as the price of grass-fed beef declined, impacting its performance.rand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "fd5c42d8-71bb-48b0-acfb-08f9783148d3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Cows_with_tags_white_and_brown_exterior_Square.jpg",
+            "navigation_label": "2018",
+            "subheading": "Further Business Growth",
+            "title": "Continued Business Expansion",
+            "content": "<p>In 2018, Stone House Farm witnessed further growth in the feed business and other grain sales. The farm incorporated hemp, which added significant revenue with good margins to the operation. </p><p>However, the grass-fed beef finishing faced difficulties as the market declined and the cattle failed to gain sufficient weight on grass alone. Consequently, the feed business stopped selling organic feed to Simply Grazin', the largest organic feed customer, due to price pressure. This led to a temporary drop in organic feed sales that did not fully recover until 2020. Despite these challenges, the overall growth trajectory of the farm continued in 2018.</p>"
+          }
+        },
+        "9761720b-49d9-454c-ab07-b4775c9d2409": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Sheep_Close_Up_exterior_Square.jpg",
+            "navigation_label": "2019",
+            "subheading": "Diversification and Challenges",
+            "title": "Expansion and Changes",
+            "content": "<p>In 2019, Stone House Farm faced both opportunities and challenges. Feed sales dipped significantly due to the loss of Simply Grazin' as an organic feed customer, but non-GMO sales continued to increase. The farm experienced its largest-ever hemp crop, which proved to be a financial highlight. Additionally, the strategic decision to seed down fields for perennial rest resulted in a major increase in hay sales. Strong straw sales also contributed to the revenue stream. To improve customer service and logistics, Nickhi Carangelo was hired, leading to better feed recipes, revamped website, and increased sales. Successful pulse crops of peas and sunflowers added value to the soy-free feed line, catering to a strong niche market.</p><p>Furthermore, Stone House Farm established a leasing arrangement with the Thorne family, who leased the pastures and cattle handling facilities and purchased significant amounts of hay. This relationship created a new revenue model for the livestock operations, reducing the farm's maintenance responsibilities for fences and pastures. However, construction for the dairy started based on an incorrect business model, causing concerns and overshadowing progress on the farm. The dairy project highlighted the importance of conducting thorough due diligence and accurate financial planning.</p>"
+          }
+        },
+        "f4ef7fb6-4ea1-4b63-a9e0-05fb34856953": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Chicken_feeding_from_hand_exterior_square.jpg",
+            "navigation_label": "2020",
+            "subheading": "Growth and Adaptation",
+            "title": "Thriving Amid Challenges",
+            "content": "<p>The year 2020 marked significant growth and adaptation for Stone House Farm. The combination of a new website, the impact of the COVID-19 pandemic, and the efforts of Nickhi Carangelo contributed to a substantial increase in the feed business. This unit of the farm proved to be a mainstay in the regional agricultural economy and demonstrated the most potential for financial success among all the farm units.</p><p>Incorporating the hemp crew from Mud Creek onto the Stone House payroll, the farm produced 25 acres of hemp. However, due to the weakening hemp market, the arrangement with Hudson Hemp became unsustainable, leading to the decision that future hemp production would be internalized by Hudson Hemp.</p><p>Hay and straw sales continued to contribute a significant revenue stream to the operation, with hay production resilient despite drought conditions. The poor yield of pulse crops, particularly sunflowers, prompted a reevaluation of the pulse crop selection for the upcoming year, with peas retained in the 2021 rotation while sunflowers were excluded.</p>"
+          }
+        },
+        "4b4d7ed7-003f-4cc3-bcee-0185cd566cbb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Grain_in_Field_and_Sunset_Square.jpg",
+            "navigation_label": "2021",
+            "subheading": "Strengthening Operations",
+            "title": "Expansion and Efficiency",
+            "content": "<p>In 2021, Stone House Farm took significant steps to strengthen its operations. Jay Goldmark was hired as the Farm General Manager, bringing valuable expertise to the team. The farm made substantial upgrades to the grain bins and grain handling facility, enhancing its capacity to receive and store grains effectively. </p><p>Furthermore, investments were made in farm equipment to support the increased scale of organic grain production, aiming to achieve financial sustainability for both the farm and feed mill operations. With an expanded production of corn, soybeans, and wheat on the farm's 1500 acres, there was a reduced need to purchase grains, potentially leading to cost savings.</p>"
+          }
+        },
+        "d17aeb67-ddc0-4099-a768-72a287ac7eb7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Grain_in_Field_Square.jpg",
+            "navigation_label": "2022",
+            "subheading": "Crop Diversification and Infrastructure Enhancements",
+            "title": "Expansion and Optimization",
+            "content": "<p>In 2022, Stone House Farm continued its efforts to diversify crops and optimize its infrastructure. The farm cultivated 400 acres of corn, 260 acres of soybeans, and 120 acres of peas, among other crops. Specialty corn varieties like Otto File were grown to cater to the human-grade market. </p><p>Additionally, ongoing upgrades were made to the grain bins and farm equipment, ensuring efficient soil cultivation and timely planting. As part of the strategic plan, the farm reduced the acreage allocated for hay production and converted some hay fields to grow grains, aligning with the goal of maximizing resources and profitability.</p>"
+          }
+        },
+        "8ba5fc99-643a-4f14-92d3-83fc326864f6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Stone_House_Grain_Sign_Exterior_Square.jpg",
+            "navigation_label": "2023",
+            "subheading": "Focus on Organic Grain and Specialty Crops",
+            "title": "Milling Excellence and Strategic Partnerships",
+            "content": "<p>In 2023, Stone House Farm's feed mill shifted its focus to milling organic grains, marking a significant transition. The non-GMO feed line gradually phased out as old inventory of non-GMO grains was depleted. As a result, the majority of organic grain grown on the farm began supplying the mill. </p><p>Notably, around 100 acres of a food-grade specialty winter wheat variety called Renan were contracted with Peter Martens in Penn Yan, with the grains destined for the Wegman Bakery program. This strategic partnership highlighted the farm's commitment to producing high-quality crops tailored to specific markets. </p><p>The ongoing emphasis on organic grain production and specialty crops demonstrated Stone House Farm's dedication to meeting evolving industry demands.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19012768596250__f400098e-d4dc-4dd1-bf67-589be32c75c9-1684436284895c0bc7-0",
+        "template--19012768596250__f400098e-d4dc-4dd1-bf67-589be32c75c9-1684436284895c0bc7-1",
+        "template--19012768596250__f400098e-d4dc-4dd1-bf67-589be32c75c9-1684436284895c0bc7-2",
+        "a4b537fe-b335-4e77-a6ed-3a5d5bdb85a2",
+        "646f8690-9ab4-46d9-b451-4f3cf340913e",
+        "fd5c42d8-71bb-48b0-acfb-08f9783148d3",
+        "9761720b-49d9-454c-ab07-b4775c9d2409",
+        "f4ef7fb6-4ea1-4b63-a9e0-05fb34856953",
+        "4b4d7ed7-003f-4cc3-bcee-0185cd566cbb",
+        "d17aeb67-ddc0-4099-a768-72a287ac7eb7",
+        "8ba5fc99-643a-4f14-92d3-83fc326864f6"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "97f9b47b-ffb9-41e1-ac0f-b39fa7e1ac4d",
+    "2b2abc09-8223-4599-88dd-b5d3454f3259",
+    "main",
+    "54952fe0-24e0-4ea7-9852-ca46eb73e533",
+    "57e8fa78-2edb-4c8c-8c79-5bcb47784e82",
+    "22216382-e494-4937-a808-498dbeb69319",
+    "004633ea-3ade-4404-9cc0-ea93b4158ea1",
+    "8abbf345-5457-485a-b3ca-65774e73ad30",
+    "f400098e-d4dc-4dd1-bf67-589be32c75c9"
+  ]
+}

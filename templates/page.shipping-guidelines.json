@@ -1,0 +1,196 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "content_width": "100ch"
+      }
+    },
+    "b36f6b7a-e0b1-4a7c-9e5d-45675dc3094f": {
+      "type": "rich-text",
+      "blocks": {
+        "40a84cb9-af0d-4d91-a03e-cea074923c6a": {
+          "type": "icon",
+          "settings": {
+            "icon": "picto-truck",
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": ""
+          }
+        },
+        "template--19094085271834__b36f6b7a-e0b1-4a7c-9e5d-45675dc3094f-16847761013180b35d-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Thank you for choosing Stone House Grain as your trusted supplier of high-quality feed and grain products. To ensure a smooth and efficient shipping or pick-up process, we offer three types of shipping/pick-up options. We have a 5 business day lead-time for all orders.  Please review the guidelines below to determine the appropriate method for your order.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "40a84cb9-af0d-4d91-a03e-cea074923c6a",
+        "template--19094085271834__b36f6b7a-e0b1-4a7c-9e5d-45675dc3094f-16847761013180b35d-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "bc21f481-3a10-4ad3-ae0e-080df05a913f": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "template--19094085271834__bc21f481-3a10-4ad3-ae0e-080df05a913f-1684776206221babdc-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Stone_House_Grain_Employee_Loading_Car_for_Passanger_Pick_Up_Single_Grain_Feed_Bag.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "Single Bags, Pallets and Totes",
+            "title": "Pick-Up",
+            "content": "<ul><li><strong>Pick-Up is available for Single bag feed orders, 1 ton of </strong>palleted<strong> bags, and 1 ton totes only.</strong></li><li>Customers are required to bring appropriate transportation to support the ordered quantity, whether it's single bags, palleted bags, or totes.</li><li>A 1 ton minimum per feed type is required for bulk pickup.  For pick ups of more than 1 ton of the same feed we will only fill ONE container (i.e. a wagon or multi-ton bin).  We will NOT fill multiple containers.</li><li>Please allow up to 5 business days for your order to be processed and ready for pick up.</li><li>Walk-in customers are welcome for single bag orders. Payment will be due at the time of pick-up for walk-in orders.</li></ul>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19094085271834__bc21f481-3a10-4ad3-ae0e-080df05a913f-1684776206221babdc-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "e2f310f4-9b7f-4b24-9347-2d5d9c2c1493": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "afb6c789-3df9-49e2-97ef-49e089e2f113": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Frieght_Shipping_Option_at_Stone_House_Farm_Square.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "Palleted Bags and Totes",
+            "title": "LTL Freight",
+            "content": "<ul><li><strong>LTL Freight is available for 1 ton paletted bag and 1 ton tote orders only. </strong></li><li>Single bag orders cannot be shipped via LTL Freight.</li><li>Stone House Grain offers Less Than Truck Load (LTL) Freight via R+L Freight.</li><li>Please allow for up to 5 business days for your order to be completed and ready to ship.</li><li>Freight quotes will be generated automatically during checkout based on the weight and destination address of the shipment.</li><li>All freight is shipped on palettes.</li><li>Please note that lift gate access on the trucks is not included in the quotes. Customers are responsible for having equipment to remove palettes upon delivery.</li></ul>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "afb6c789-3df9-49e2-97ef-49e089e2f113"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "1354cd3b-3e7a-4964-8126-0f7e7901c599": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "f6a9c136-bcf7-4fbe-9f7a-e82896d397f8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Stone_House_Grain_Delivery_Feed_and_Grain_Truck.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "Bulk Feed Orders",
+            "title": "Local Delivery Within 50 Miles",
+            "content": "<h5><strong>ALL NEW BULK DELIVERY CUSTOMERS MUST BE PREAPPROVED.</strong></h5><ul><li><strong>Contact the sales office for a bulk delivery application.</strong></li><li>This service is available for bulk orders of grain and feed only.</li><li>We provide local delivery within a 50-mile radius of the farm address (subject to approval).</li><li>A minimum of 3 Tons of feed per order is required for local delivery.</li><li>A minimum of 1 ton bulk per feed type is required.</li><li>A minimum of 1 ton bulk per feed type is required for bulk pickups.  For pick ups of more than 1 ton of the same feed we will only fill ONE container (i.e. a wagon or multi-ton  bin).  We will NOT fill multiple containers.</li><li><strong>Bulk delivery orders MUST be placed by noon on the Tuesday of the week PRIOR to delivery.</strong></li><li>Delivery costs are $5 per mile within the 50-mile farm radius.  There is a minimum delivery charge of $50.</li></ul>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "f6a9c136-bcf7-4fbe-9f7a-e82896d397f8"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "b64f5f39-dafd-41b0-a66f-e11fe0f6f331": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--19094085271834__b64f5f39-dafd-41b0-a66f-e11fe0f6f331-1684776870549d2b11-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "Got Questions?"
+          }
+        },
+        "template--19094085271834__b64f5f39-dafd-41b0-a66f-e11fe0f6f331-1684776870549d2b11-1": {
+          "type": "heading",
+          "settings": {
+            "text": "We'd Love To Help",
+            "heading_tag": "h1"
+          }
+        },
+        "b6f13c59-a6e1-4d98-9bfd-e84dd0e9c89b": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Contact Our Team",
+            "url": "shopify://pages/contact",
+            "background": "#ffffff",
+            "text_color": "#c0753a"
+          }
+        }
+      },
+      "block_order": [
+        "template--19094085271834__b64f5f39-dafd-41b0-a66f-e11fe0f6f331-1684776870549d2b11-0",
+        "template--19094085271834__b64f5f39-dafd-41b0-a66f-e11fe0f6f331-1684776870549d2b11-1",
+        "b6f13c59-a6e1-4d98-9bfd-e84dd0e9c89b"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify://shop_images/SHF_-_STRUCTURE_5.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 35
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b36f6b7a-e0b1-4a7c-9e5d-45675dc3094f",
+    "bc21f481-3a10-4ad3-ae0e-080df05a913f",
+    "e2f310f4-9b7f-4b24-9347-2d5d9c2c1493",
+    "1354cd3b-3e7a-4964-8126-0f7e7901c599",
+    "b64f5f39-dafd-41b0-a66f-e11fe0f6f331"
+  ]
+}

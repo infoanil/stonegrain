@@ -1,0 +1,902 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_1_-_LANDSCAPE_9_Color_Corrected_4c6783f6-53d8-44ed-98c5-bf775e412535.jpg",
+            "content_max_width": 720,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "Quality, Sustainable, Locally-Grown",
+            "title": "Premium Organic Feed and Grains",
+            "heading_tag": "h0",
+            "button_text": "Shop Quality Feeds",
+            "button_link": "shopify://collections/all",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "lg",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(148deg, rgba(113, 69, 34, 1) 6%, rgba(192, 117, 58, 1) 97%)"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "0374a3a0-6e3c-4677-a6b3-58e68c37e043": {
+          "type": "collection",
+          "settings": {
+            "collection": "poultry-feed",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "hog-feed",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "sheep-feed",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "0374a3a0-6e3c-4677-a6b3-58e68c37e043",
+        "collection-1",
+        "collection-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Shop By Animal",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "e47ff0dd-3b53-4612-85a9-b56e8ac0a723": {
+      "type": "media-grid",
+      "blocks": {
+        "template--18939055931674__e47ff0dd-3b53-4612-85a9-b56e8ac0a723-168424722499f1412a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Cows_with_tags_white_and_brown_exterior.jpg",
+            "title": "Cattle Feed",
+            "heading_tag": "h2",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 16
+          }
+        },
+        "template--18939055931674__e47ff0dd-3b53-4612-85a9-b56e8ac0a723-168424722499f1412a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Two_Goats_White_and_Brown_Exterior.jpg",
+            "title": "Goat Feed",
+            "heading_tag": "h2",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 14
+          }
+        }
+      },
+      "block_order": [
+        "template--18939055931674__e47ff0dd-3b53-4612-85a9-b56e8ac0a723-168424722499f1412a-0",
+        "template--18939055931674__e47ff0dd-3b53-4612-85a9-b56e8ac0a723-168424722499f1412a-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Mike Yund, Yundwell Pastured Poultry",
+            "content": "Stone House Grain supplies us with literal tons (and tons) of high-quality poultry grain for our layers, broilers, and turkeys.  We’ve been happily working with them for over a decade!",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "16644243327ba53d2a-1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Harry Mahon, Churchtown Dairy",
+            "content": "Stone House Grain sources and grows only the highest quality ingredients and grains, which they use to make nutritional feed that meets our cows and pigs needs.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "b96792ce-01d0-4783-969f-c052d29cd5b1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Bennett Sippel , Northaven Pastures",
+            "content": "Stonehouse Grain is the highest quality source of organic and soy free livestock feed, it’s all we would ever give our animals!",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "9e278cbf-6c44-44cf-b408-860fd0e79456": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Phil Haynes, Sky High Farm",
+            "content": "Stone House is very accommodating with assisting their customers pick up grain at convenient times as well help in an emergency when you need feed in a tight spot. They make excellent hay and baleage and will deliver it to you at a time you're ready to receive it.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "16644243327ba53d2a-1",
+        "b96792ce-01d0-4783-969f-c052d29cd5b1",
+        "9e278cbf-6c44-44cf-b408-860fd0e79456"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "image_with_text_overlay_MxqQVV": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_TwwJRd": {
+          "type": "heading",
+          "settings": {
+            "text": "Whole Grains and Hay",
+            "heading_tag": "h1"
+          }
+        },
+        "button_Tzj4YX": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "EXPLORE",
+            "url": "shopify://collections/whole-grains",
+            "background": "#ffffff",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TwwJRd",
+        "button_Tzj4YX"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "image_size": "md",
+        "image": "shopify://shop_images/Whole_Grains_at_Stone_House_Grain_Exteroir_Wheat_Square.jpg",
+        "mobile_image": "shopify://shop_images/Whole_Grains_at_Stone_House_Grain_Exteroir_Wheat_Square.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "17-organic-layer-mash",
+          "18-organic-broiler-mash",
+          "15-organic-hog-feed",
+          "15-organic-sheep-goat-feed",
+          "21-organic-chick-starter",
+          "19-organic-layer-mash"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Most Popular Feed",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "To the Hudson Valley Farming Community"
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Our Pledge of Quality",
+            "heading_tag": "h1"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At Stone House Grain, we are committed to supporting the local agriculture and environmental systems of the Hudson Valley. Our mission is to grow the finest, high-quality organic and soy-free grains that contribute to the vitality of your farms and the well-being of our shared ecosystem.</p><p>We farm to connect our beautiful fields with livestock farmers, millers, bakers, and distillers so that we all have the organic grains we need to thrive.  </p><p>We understand the challenges you face as farmers and entrepreneurs, and we are dedicated to providing exceptional organic grains and feed. With every seed we plant and every harvest, we celebrate and deepen organic regenerative<br/>farming in the Hudson Valley with a vision of bioregional health for current<br/>and future generations.</p>"
+          }
+        },
+        "49c1663d-b0e6-49ba-b77f-bd9bc107a0e4": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Learn More About Us",
+            "url": "shopify://pages/about",
+            "background": "#ffffff",
+            "text_color": "#1a1a1a"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0",
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2",
+        "49c1663d-b0e6-49ba-b77f-bd9bc107a0e4"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "image_size": "lg",
+        "image": "shopify://shop_images/SHF_-_26_-_STONE.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 41
+      }
+    },
+    "media-grid": {
+      "type": "media-grid",
+      "blocks": {
+        "item-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_4_-_CROPS_6.jpg",
+            "title": "Whole Grains",
+            "heading_tag": "h2",
+            "link_url": "shopify://collections/whole-grains",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "item-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Minerals_and_Supplements_Square.jpg",
+            "title": "Minerals and Supplements",
+            "heading_tag": "h3",
+            "link_url": "shopify://collections/minerals-and-supplements",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "item-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_6_-_CROPS_2.jpg",
+            "title": "Cover Crop Seeds",
+            "heading_tag": "h3",
+            "link_url": "shopify://collections/cover-crop-seed",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "29246d34-c6e0-4373-84f6-b15e57736a00": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Hay_and_Straw_Close_Up_Exterior.jpg",
+            "title": "Hay",
+            "heading_tag": "h2",
+            "link_url": "shopify://collections/hay-and-stray",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "29246d34-c6e0-4373-84f6-b15e57736a00"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "hot-spots": {
+      "type": "hot-spots",
+      "blocks": {
+        "1664424434f5b7d0e0-0": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 24,
+            "vertical_position": 70,
+            "horizontal_position_mobile": 24,
+            "vertical_position_mobile": 70,
+            "icon": "shopify://shop_images/NOFA_NY_Certified_Organic_Logo.svg",
+            "icon_width": 76,
+            "title": "",
+            "content": "<p>We're proud to maintain NOFA Certified Organic on select products.</p>"
+          }
+        },
+        "1664424434f5b7d0e0-1": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 74,
+            "vertical_position": 17,
+            "horizontal_position_mobile": 62,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Regenerative Agricultural Practices",
+            "content": "<p>We farm using regenerative agriculture practices, securing soil and ecosystem health.</p>"
+          }
+        },
+        "1664424434f5b7d0e0-2": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 83,
+            "vertical_position": 75,
+            "horizontal_position_mobile": 83,
+            "vertical_position_mobile": 75,
+            "icon_width": 32,
+            "title": "Grown Locally in the Hudson Valley",
+            "content": "<p>Reduce your carbon footprint by buying local New York grown grains.</p>"
+          }
+        },
+        "423eed26-e7e3-490f-81fc-b106d855f772": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 10,
+            "vertical_position": 23,
+            "horizontal_position_mobile": 30,
+            "vertical_position_mobile": 30,
+            "icon_width": 32,
+            "title": "Stone House Grain Grown",
+            "content": "<p>Approximately 75% of all the grains used to make our feeds is grown right here at Stone House Farm</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424434f5b7d0e0-0",
+        "1664424434f5b7d0e0-1",
+        "1664424434f5b7d0e0-2",
+        "423eed26-e7e3-490f-81fc-b106d855f772"
+      ],
+      "custom_css": [
+        "h2 {font-size: 3.8em;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/SHF_-_PEOPLE_4.jpg",
+        "title": "What Makes Our Grains Special?",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-center text-center",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 19,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "multiple-images-with-text": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "1664424486a2b084ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_STRUCTURE_3_Color_Corrected_Two.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "About Us",
+            "title": "Stone House Farm",
+            "content": "<p>Located outside Hudson, NY, we farm 3,000 acres of organically managed pasture, hay, and grains, growing corn, peas, soybeans, wheat, barley, oats, sunflowers, flax, and cover crops in a long-term rotation that supports a healthy regenerative ecosystem and local grains economy.  </p><p>Our on-farm mill cracks and grinds the grains into balanced animal feed rations. We are passionate about producing high-quality, certified organic grains and animal feed. </p><p>With a deep-rooted commitment to sustainable agriculture, we strive to provide farmers, distillers, and millers with the grains they need to thrive.</p>",
+            "button_url": "shopify://pages/about",
+            "button_text": "Learn About Our Farm"
+          }
+        },
+        "1664424486a2b084ab-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Frieght_Shipping_Option_at_Stone_House_Farm_Square.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "Pick-Up, Freight Shipping and Local Delivery",
+            "title": "Got Questions About Shipping?",
+            "content": "<p>Learn more about our convenient shipping, freight, and pick-up guidelines to ensure a seamless experience when ordering from Stone House Grain. Whether you prefer local delivery, freight shipping, or picking up your order from our farm, we've got you covered. Explore our guidelines for hassle-free service.</p>",
+            "button_url": "shopify://pages/shipping",
+            "button_text": "Shipping Guidelines"
+          }
+        },
+        "61404c8d-483d-4cf1-85b8-1f833609e066": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SHF_-_MACHINERY_7_square.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "Farmer First Services",
+            "title": "Custom Blends",
+            "content": "<p>Discover the power of tailored nutrition with our custom blends. Unleash the full potential of your livestock by creating personalized feed formulations that meet their unique dietary needs. Explore our wide range of customizable options and elevate the health and performance of your animals. Contact us to get started!</p>",
+            "button_url": "shopify://pages/contact",
+            "button_text": "Let's Talk Custom Blends"
+          }
+        }
+      },
+      "block_order": [
+        "1664424486a2b084ab-0",
+        "1664424486a2b084ab-1",
+        "61404c8d-483d-4cf1-85b8-1f833609e066"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "top",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "separator",
+        "description",
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "full_width": false,
+        "product": "17-organic-layer-mash",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "df7a19ae-b676-4bdb-887c-8e7c5560ed71": {
+      "type": "logo-list",
+      "blocks": {
+        "template--18939055931674__df7a19ae-b676-4bdb-887c-8e7c5560ed71-168443460375ae480b-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/NOFA_NY_Certified_Organic_Logo.svg",
+            "logo_width": 250,
+            "link": "https://cdn.shopify.com/s/files/1/0757/2655/3370/files/StoneHouseGrainOrganicCertificates.pdf?v=1727800076"
+          }
+        },
+        "template--18939055931674__df7a19ae-b676-4bdb-887c-8e7c5560ed71-168443460375ae480b-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/USDA_Black_and_White_Organic_Seal_-_GIF.gif",
+            "logo_width": 250,
+            "link": "https://cdn.shopify.com/s/files/1/0757/2655/3370/files/StoneHouseGrainOrganicCertificates.pdf?v=1727800076"
+          }
+        }
+      },
+      "block_order": [
+        "template--18939055931674__df7a19ae-b676-4bdb-887c-8e7c5560ed71-168443460375ae480b-0",
+        "template--18939055931674__df7a19ae-b676-4bdb-887c-8e7c5560ed71-168443460375ae480b-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Proudly Certified Organic By",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "fb1431d4-92d6-48f3-833d-cfa2911d5804": {
+          "type": "item",
+          "settings": {
+            "title": "What shipping options do you offer?",
+            "content": "<p>We offer pickup, delivery and shipping options depending on which product size you select.<br/><br/><a href=\"/pages/shipping\" title=\"Pickup, Freight Shipping and Delivery Guidelines\">Learn more about our Shipping Guidelines</a>  <a href=\"/pages/shipping\" title=\"Pickup, Freight Shipping and Delivery Guidelines\"><span style=\"text-decoration:underline\">➙</span></a></p>"
+          }
+        },
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Are your organic products non-GMO too?",
+            "content": "<p>Yes! All of our organic products are non-GMO also!</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Why should I buy Organic grains?",
+            "content": "<p>Organic farming practices benefit the ecosystems surrounding a farm – better air, carbon sequestration and healthier soil.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Are Organic grains good for my animals?",
+            "content": "<p>Organic grains are a highly nutritious; packed with vitamins, minerals and fiber, which provide great fuel for livestock.</p>"
+          }
+        },
+        "7202d9d7-6fbe-4b80-a6fd-038c09ff9e52": {
+          "type": "item",
+          "settings": {
+            "title": "Do your grains contain any antibiotics or hormones?",
+            "content": "<p>No. Our Organic feeds contain no antibiotics, hormones or animal by-products</p>"
+          }
+        },
+        "c63eddc4-86e5-4989-8faf-89e3de3bb629": {
+          "type": "item",
+          "settings": {
+            "title": "Do you offer custom feed blends?",
+            "content": "<p>Yes! Our custom rations provide for the ability of farmers to curate a specialized diet for their livestock.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "fb1431d4-92d6-48f3-833d-cfa2911d5804",
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2",
+        "7202d9d7-6fbe-4b80-a6fd-038c09ff9e52",
+        "c63eddc4-86e5-4989-8faf-89e3de3bb629"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Get fast answers to our most common questions!</p><p><br/><br/><strong>Contact Us:</strong></p><p>T: <a href=\"tel:(518) 851-2000\" target=\"_blank\">(518) 851-2000</a></p><p>E: <a href=\"mailto:sales@stonehousegrain.com\" target=\"_blank\">sales@stonehousegrain.com</a></p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 10 am - 4 pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "b94c5dd5-4461-40e4-ba98-fb76b303d1c3": {
+      "type": "blog-posts",
+      "blocks": {
+        "template--18939055931674__b94c5dd5-4461-40e4-ba98-fb76b303d1c3-168425212840702925-0": {
+          "type": "article",
+          "settings": {
+            "article": "news/test-exploring-the-benefits-of-organic-and-soy-free-feeds-for-livestock",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18939055931674__b94c5dd5-4461-40e4-ba98-fb76b303d1c3-168425212840702925-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "Read Our Latest News",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection-list",
+    "e47ff0dd-3b53-4612-85a9-b56e8ac0a723",
+    "press",
+    "image_with_text_overlay_MxqQVV",
+    "featured-collection",
+    "impact-text",
+    "image-with-text-overlay",
+    "media-grid",
+    "hot-spots",
+    "multiple-images-with-text",
+    "featured-product",
+    "df7a19ae-b676-4bdb-887c-8e7c5560ed71",
+    "faq",
+    "b94c5dd5-4461-40e4-ba98-fb76b303d1c3"
+  ]
+}

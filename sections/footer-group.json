@@ -1,0 +1,153 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "free-shipping": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-star",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "High-Quality Feeds",
+            "content": "<p>The best animal feed and grain grown in the Hudson Valley</p>"
+          }
+        },
+        "customer-support": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-leaf",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Certified Organic",
+            "content": "<p>NOFA, USDA & Real Organic Project Organic Certified</p>"
+          }
+        },
+        "discount": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-happy",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Farmer Friendly",
+            "content": "<p>Proudly partnering with Hudson Valley Farmers</p>"
+          }
+        },
+        "payment": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure Payment",
+            "content": "<p>All online payments are safe and secure.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "free-shipping",
+        "customer-support",
+        "discount",
+        "payment"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up for Farm News & Offers",
+            "content": ""
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Contact Us",
+            "content": "<p><a href=\"tel:(518) 851-2000\" target=\"_blank\">(518) 851-2000</a></p><p><a href=\"mailto:sales@stonehousegrain.com\" target=\"_blank\">sales@stonehousegrain.com</a></p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "abb7d4cb-4eae-40f8-b6dd-654c47f7e2b8": {
+          "type": "text",
+          "settings": {
+            "title": "Address and Hours",
+            "content": "<p>Monday - Friday 10am to 4pm</p><p><a href=\"https://www.google.com/maps/place/Stone+House+Farm/@42.161345,-73.772958,17z/data=!3m1!4b1!4m5!3m4!1s0x89dd97597002c335:0x821121c40bc406aa!8m2!3d42.161341!4d-73.770764\" target=\"_blank\">3161 US Route 9<br/>Hudson, NY 12534</a></p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "61e5167b-e1cb-4875-98a8-03027a64c42c": {
+          "type": "text",
+          "settings": {
+            "title": "Organic Certificates",
+            "content": "<p><a href=\"https://cdn.shopify.com/s/files/1/0757/2655/3370/files/StoneHouseGrainOrganicCertificates.pdf?v=1727800076\" title=\"https://cdn.shopify.com/s/files/1/0757/2655/3370/files/StoneHouseGrainOrganicCertificates.pdf?v=1727800076\">Download Organic Certificates</a></p>",
+            "enable_follow_on_shop": false
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "links",
+        "text",
+        "abb7d4cb-4eae-40f8-b6dd-654c47f7e2b8",
+        "61e5167b-e1cb-4875-98a8-03027a64c42c"
+      ],
+      "settings": {
+        "show_social_media": false,
+        "show_payment_icons": true,
+        "show_country_selector": false,
+        "show_country_flag": false,
+        "show_country_name": false,
+        "show_locale_selector": false
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "footer"
+  ]
+}
